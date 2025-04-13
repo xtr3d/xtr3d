@@ -10,4 +10,4 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" height="40" alt="C logo"
 <img width="40" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" height="40" alt="C logo"
-<img width="40" />
+<img width="12" />
