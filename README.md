@@ -1,5 +1,5 @@
-#
-Welcome to my profile!
+<h1 align="center"> Welcome to my profile! </h1>
+###
 <div align="center">
 <div style="display: flex; gap: 10px;">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cpp" width="50">
@@ -8,5 +8,5 @@ Welcome to my profile!
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="bash" width="50">
 </div>
 
-##
+###
 mb i will post smth when i learn ts
