@@ -1,5 +1,6 @@
 #
 Welcome to my profile!
+<div align="center">
 <div style="display: flex; gap: 10px;">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cpp" width="50">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" width="50">
