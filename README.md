@@ -8,5 +8,9 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="bash" width="50">
 </div>
 
+
+
+
+
 ###
 mb i will post smth when i learn ts
